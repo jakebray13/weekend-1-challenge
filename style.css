@@ -1,0 +1,23 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    color: black
+}
+
+input {
+    padding: 10px;
+    font-size: inherit;
+}
+
+button {
+    width: 191px;
+    height: 30px;
+    background: red;
+}
+
+body {
+    text-align: center;
+}

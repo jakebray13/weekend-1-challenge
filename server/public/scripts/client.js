@@ -2,7 +2,7 @@ $(document).ready(onReady);
 
 var employees = [];
 var monthlyCost = 0;
-employeeCounter = 0;
+var employeeCounter = 0;
 
 function onReady() {    
 // event listeners for buttons
